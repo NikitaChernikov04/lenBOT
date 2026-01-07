@@ -1,12 +1,6 @@
 {
   "name": "lenbot",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "serve .",
-    "start": "serve .",
-    "build": "echo 'No build step required for static site'"
-  },
-  "dependencies": {
-    "serve": "^14.0.0"
-  }
+  "scripts": {},
+  "private": true
 }
